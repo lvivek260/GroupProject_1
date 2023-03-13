@@ -1,0 +1,456 @@
+[
+    {
+        "name": "Switzerland",
+        "code": "CH",
+        "capital": "Bern",
+        "region": "EU",
+        "currency": {
+          "code": "CHF",
+          "name": "Swiss franc",
+          "symbol": "Fr"
+        },
+        "language": {
+          "code": "de",
+          "name": "German"
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/1200px-Flag_of_Switzerland.svg.png",
+        "dialling_code": "+41",
+        "isoCode": "756"
+      },
+      {
+        "name": "Germany",
+        "code": "DE",
+        "capital": "Berlin",
+        "region": "EU",
+        "currency": {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        },
+        "language": {
+          "code": "de",
+          "name": "German"
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+        "dialling_code": "+49",
+        "isoCode": "276"
+      },
+      {
+        "name": "Canada",
+        "code": "CA",
+        "capital": "Ottawa",
+        "region": "NA",
+        "currency": {
+          "code": "CAD",
+          "name": "Canadian dollar",
+          "symbol": "$"
+        },
+        "language": {
+          "code": "en",
+          "name": "English"
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2560px-Flag_of_Canada_%28Pantone%29.svg.png",
+        "dialling_code": "+1",
+        "isoCode": "124"
+      },
+      {
+        "name": "United States",
+        "code": "IO",
+        "capital": "Diego Garcia",
+        "region": "AF",
+        "currency": {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$"
+        },
+        "language": {
+          "code": "en",
+          "name": "English"
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/2560px-Flag_of_the_United_States.svg.png",
+        "dialling_code": "+246",
+        "isoCode": "086"
+      },
+      {
+        "name": "Sweden",
+        "code": "SE",
+        "capital": "Stockholm",
+        "region": "EU",
+        "currency": {
+          "code": "SEK",
+          "name": "Swedish krona",
+          "symbol": "kr"
+        },
+        "language": {
+          "code": "sv",
+          "name": "Swedish"
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/1200px-Flag_of_Sweden.svg.png",
+        "dialling_code": "+46",
+        "isoCode": "752"
+      },
+      {
+        "name": "Japan",
+        "code": "JP",
+        "capital": "Tokyo",
+        "region": "AS",
+        "currency": {
+          "code": "JPY",
+          "name": "Japanese yen",
+          "symbol": "¥"
+        },
+        "language": {
+          "code": "ja",
+          "name": "Japanese"
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",
+        "dialling_code": "+81",
+        "isoCode": "392"
+      },
+      {
+        "name": "Australia",
+        "code": "AU",
+        "capital": "Canberra",
+        "region": "OC",
+        "currency": {
+          "code": "AUD",
+          "name": "Australian dollar",
+          "symbol": "$"
+        },
+        "language": {
+          "code": "en",
+          "name": "English"
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/1280px-Flag_of_Australia.svg.png",
+        "dialling_code": "+61",
+        "isoCode": "036"
+      },
+      {
+        "name": "United Kingdom",
+        "code": "GB",
+        "capital": "London",
+        "region": "EU",
+        "currency": {
+          "code": "GBP",
+          "name": "British pound",
+          "symbol": "£"
+        },
+        "language": {
+          "code": "en",
+          "name": "English"
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_United_Kingdom.png",
+        "dialling_code": "+44",
+        "isoCode": "826"
+      },
+      {
+        "name": "France",
+        "code": "FR",
+        "capital": "Paris",
+        "region": "EU",
+        "demonym": "French",
+        "currency": {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        },
+        "language": {
+          "code": "fr",
+          "name": "French"
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png",
+        "dialling_code": "+33",
+        "isoCode": "250"
+      },
+      {
+        "name": "Denmark",
+        "code": "DK",
+        "capital": "Copenhagen",
+        "region": "EU",
+        "currency": {
+          "code": "DKK",
+          "name": "Danish krone",
+          "symbol": "kr"
+        },
+        "language": {
+          "code": "da",
+          "name": "Danish"
+        },
+        "flag": "https://cdn-icons-png.flaticon.com/512/197/197565.png",
+        "dialling_code": "+45",
+        "isoCode": "208"
+      },
+      {
+        "name": "New Zealand",
+        "code": "CK",
+        "capital": "Avarua",
+        "region": "OC",
+        "currency": {
+          "code": "NZD",
+          "name": "New Zealand dollar",
+          "symbol": "$"
+        },
+        "language": {
+          "code": "en",
+          "name": "English"
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_New_Zealand.png/1200px-Flag_of_New_Zealand.png",
+        "dialling_code": "+682",
+        "isoCode": "184"
+      },
+      {
+        "name": "Netherlands",
+        "code": "NL",
+        "capital": "Amsterdam",
+        "region": "EU",
+        "currency": {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        },
+        "language": {
+          "code": "nl",
+          "name": "Dutch"
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Flag_of_the_Netherlands.png",
+        "dialling_code": "+31",
+        "isoCode": "528"
+      },
+      {
+        "name": "Norway",
+        "code": "NO",
+        "capital": "Oslo",
+        "region": "EU",
+        "currency": {
+          "code": "NOK",
+          "name": "Norwegian krone",
+          "symbol": "kr"
+        },
+        "language": {
+          "code": "no",
+          "name": "Norwegian"
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Flag_of_Norway.png",
+        "dialling_code": "+47",
+        "isoCode": "578"
+      },
+      {
+        "name": "Italy",
+        "code": "IT",
+        "capital": "Rome",
+        "region": "EU",
+        "currency": {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        },
+        "language": {
+          "code": "it",
+          "name": "Italian"
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_Italy_%281946%E2%80%932003%29.png",
+        "dialling_code": "+39",
+        "isoCode": "380"
+      },
+      {
+        "name": "Finland",
+        "code": "FI",
+        "capital": "Helsinki",
+        "region": "EU",
+        "currency": {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        },
+        "language": {
+          "code": "fi",
+          "iso639_2": "fin",
+          "name": "Finnish",
+          "nativeName": "suomi"
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/2560px-Flag_of_Finland.svg.png",
+        "dialling_code": "+358",
+        "isoCode": "246"
+      },
+      {
+        "name": "Spain",
+        "code": "ES",
+        "capital": "Madrid",
+        "region": "EU",
+        "currency": {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        },
+        "language": {
+          "code": "es",
+          "name": "Spanish"
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Spain_flag_300.png",
+        "dialling_code": "+34",
+        "isoCode": "724"
+      },
+      {
+        "name": "China",
+        "code": "CN",
+        "capital": "Beijing",
+        "region": "AS",
+        "currency": {
+          "code": "CNY",
+          "name": "Chinese yuan",
+          "symbol": "¥"
+        },
+        "language": {
+          "code": "zh",
+          "name": "Chinese"
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_China.png",
+        "dialling_code": "+86",
+        "isoCode": "156"
+      },
+      {
+        "name": "Belgium",
+        "code": "BE",
+        "capital": "Brussels",
+        "region": "EU",
+        "currency": {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        },
+        "language": {
+          "code": "nl",
+          "name": "Dutch"
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/692px-Flag_of_Belgium.svg.png?20221128005359",
+        "dialling_code": "+32",
+        "isoCode": "056"
+      },
+      {
+      "name": "Singapore",
+      "code": "SG",
+      "capital": "Singapore",
+      "region": "AS",
+      "currency": {
+        "code": "SGD",
+        "name": "Singapore dollar",
+        "symbol": "$"
+      },
+      "language": {
+        "code": "en",
+        "name": "English"
+      },
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/1200px-Flag_of_Singapore.svg.png",
+      "dialling_code": "+65",
+      "isoCode": "702"
+    },
+    {
+        "name": "South Korea",
+        "code": "KR",
+        "capital": "Seoul",
+        "region": "AS",
+        "currency": {
+          "code": "KRW",
+          "name": "South Korean won",
+          "symbol": "₩"
+        },
+        "language": {
+          "code": "ko",
+          "name": "Korean"
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1200px-Flag_of_South_Korea.svg.png",
+        "dialling_code": "+82",
+        "isoCode": "410"
+      },
+      {
+        "name": "Ireland",
+        "code": "IE",
+        "capital": "Dublin",
+        "region": "EU",
+        "currency": {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        },
+        "language": {
+          "code": "ga",
+          "name": "Irish"
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/2560px-Flag_of_Ireland.svg.png",
+        "dialling_code": "+353",
+        "isoCode": "372"
+      },
+      {
+        "name": "Brazil",
+        "code": "BR",
+        "capital": "Brasília",
+        "region": "SA",
+        "currency": {
+          "code": "BRL",
+          "name": "Brazilian real",
+          "symbol": "R$"
+        },
+        "language": {
+          "code": "pt",
+          "name": "Portuguese"
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png",
+        "dialling_code": "+55",
+        "isoCode": "076"
+      },
+      {
+        "name": "Thailand",
+        "code": "TH",
+        "capital": "Bangkok",
+        "region": "AS",
+        "currency": {
+          "code": "THB",
+          "name": "Thai baht",
+          "symbol": "฿"
+        },
+        "language": {
+          "code": "th",
+          "name": "Thai"
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/2560px-Flag_of_Thailand.svg.png",
+        "dialling_code": "+66",
+        "isoCode": "764"
+      },
+      {
+        "name": "India",
+        "code": "IO",
+        "capital": "Delhi",
+        "region": "AF",
+        "currency": {
+          "code": "Rs",
+          "name": "Rupes",
+          "symbol": "₹"
+        },
+        "language": {
+          "code": "en",
+          "name": "Hindi"
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1280px-Flag_of_India.svg.png",
+        "dialling_code": "+246",
+        "isoCode": "086"
+      },
+      {
+        "name": "Russia",
+        "code": "RU",
+        "capital": "Moscow",
+        "region": "EU",
+        "currency": {
+          "code": "RUB",
+          "name": "Russian ruble",
+          "symbol": "₽"
+        },
+        "language": {
+          "code": "ru",
+          "name": "Russian"
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1280px-Flag_of_Russia.svg.png",
+        "dialling_code": "+7",
+        "isoCode": "643"
+      }
+
+]

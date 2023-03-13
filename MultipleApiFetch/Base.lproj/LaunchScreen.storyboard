@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="ft9-O1-hEb">
+    <device id="retina4_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="HTb-3D-bHb">
+            <objects>
+                <viewController id="ft9-O1-hEb" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="WsZ-9E-npM">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="bitcode" translatesAutoresizingMaskIntoConstraints="NO" id="dPB-LU-6Q2">
+                                <rect key="frame" x="0.0" y="50" width="320" height="200"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="App Development By....." textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FIC-aI-FWr">
+                                <rect key="frame" x="10" y="275" width="300" height="32.5"/>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="27"/>
+                                <color key="textColor" red="0.85958963629999996" green="0.33506703380000002" blue="0.21294888849999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Lokhande Vivek" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9zK-qw-uOO">
+                                <rect key="frame" x="0.0" y="339" width="320" height="27"/>
+                                <fontDescription key="fontDescription" type="system" weight="black" pointSize="22"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Jagtap Pratiksha" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ybj-MF-O0p">
+                                <rect key="frame" x="10" y="413.5" width="300" height="26.5"/>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="22"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Kalamkar Pooja" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CUj-PN-tly">
+                                <rect key="frame" x="10" y="477.5" width="300" height="26.5"/>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="22"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="8fb-3j-IB4"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="dPB-LU-6Q2" firstAttribute="trailing" secondItem="8fb-3j-IB4" secondAttribute="trailing" id="Ctn-cr-xyr"/>
+                            <constraint firstItem="ybj-MF-O0p" firstAttribute="leading" secondItem="8fb-3j-IB4" secondAttribute="leading" constant="10" id="E27-yQ-7V2"/>
+                            <constraint firstItem="ybj-MF-O0p" firstAttribute="top" secondItem="9zK-qw-uOO" secondAttribute="bottom" constant="47.5" id="EUf-cs-JF4"/>
+                            <constraint firstItem="dPB-LU-6Q2" firstAttribute="top" secondItem="8fb-3j-IB4" secondAttribute="top" constant="50" id="GQd-Ic-bVb"/>
+                            <constraint firstItem="CUj-PN-tly" firstAttribute="top" secondItem="ybj-MF-O0p" secondAttribute="bottom" constant="37.5" id="Gjv-7K-Pq7"/>
+                            <constraint firstItem="8fb-3j-IB4" firstAttribute="trailing" secondItem="CUj-PN-tly" secondAttribute="trailing" constant="10" id="Oas-Qh-pdA"/>
+                            <constraint firstItem="dPB-LU-6Q2" firstAttribute="leading" secondItem="8fb-3j-IB4" secondAttribute="leading" id="Pks-6b-8Yf"/>
+                            <constraint firstItem="9zK-qw-uOO" firstAttribute="top" secondItem="FIC-aI-FWr" secondAttribute="bottom" constant="31.5" id="RF9-1H-Tz2"/>
+                            <constraint firstItem="FIC-aI-FWr" firstAttribute="leading" secondItem="8fb-3j-IB4" secondAttribute="leading" constant="10" id="TVh-em-dIO"/>
+                            <constraint firstItem="8fb-3j-IB4" firstAttribute="trailing" secondItem="FIC-aI-FWr" secondAttribute="trailing" constant="10" id="cR6-Yl-io3"/>
+                            <constraint firstItem="CUj-PN-tly" firstAttribute="leading" secondItem="8fb-3j-IB4" secondAttribute="leading" constant="10" id="d3E-cr-0np"/>
+                            <constraint firstItem="FIC-aI-FWr" firstAttribute="top" secondItem="dPB-LU-6Q2" secondAttribute="bottom" constant="25" id="gN9-ef-D2l"/>
+                            <constraint firstItem="9zK-qw-uOO" firstAttribute="leading" secondItem="8fb-3j-IB4" secondAttribute="leading" id="hhg-jx-AtX"/>
+                            <constraint firstItem="8fb-3j-IB4" firstAttribute="trailing" secondItem="dPB-LU-6Q2" secondAttribute="trailing" id="ibc-Gj-gB6"/>
+                            <constraint firstItem="8fb-3j-IB4" firstAttribute="trailing" secondItem="9zK-qw-uOO" secondAttribute="trailing" id="jnH-Oc-bux"/>
+                            <constraint firstItem="dPB-LU-6Q2" firstAttribute="leading" secondItem="8fb-3j-IB4" secondAttribute="leading" id="mzA-Pb-sfo"/>
+                            <constraint firstItem="8fb-3j-IB4" firstAttribute="trailing" secondItem="ybj-MF-O0p" secondAttribute="trailing" constant="10" id="wZy-Hp-pIl"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="VnL-Bw-VqQ" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="196" y="308"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="bitcode" width="200" height="200"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

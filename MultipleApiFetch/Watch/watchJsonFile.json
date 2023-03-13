@@ -1,0 +1,199 @@
+[
+    {
+       "gender" : "male" ,
+       "data" : [
+        {
+          "id" : 1,
+          "title" : "Timex",
+          "price" : 500,
+          "thumbnail" : "https://www.shutterstock.com/image-photo/closeup-fashion-image-luxury-brown-600w-1120960922.jpg",
+           "images" : ["https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/t/w/tr:w-480,/tw000u928-1.jpg?rnd=20200526195200",
+            "https://shop.timexindia.com/pub/media/catalog/product/cache/d1278743bcf4dd9ae554a45c3451b6fa/t/w/tw000t310.jpg",
+         "https://www.swisstimehouse.com/134818-large_default/timex-tweg16717.webp"]
+
+        },
+        {
+            "id" : 2,
+            "title" : "Fastrack",
+            "price" : 709,
+            "thumbnail" : "https://m.media-amazon.com/images/I/812mdk3Y6TL._AC_UL320_.jpg",
+            "images" : ["https://m.media-amazon.com/images/I/51Q78fz0SGL._UL1000_.jpg",
+        "https://images-eu.ssl-images-amazon.com/images/I/812mdk3Y6TL._AC_UL116_SR116,116_.jpg",
+        "https://images-eu.ssl-images-amazon.com/images/I/51Q78fz0SGL._AC_UL116_SR116,116_.jpg"]
+        },
+       {
+         "id" : 3,
+         "title" : "Redux",
+         "price" : 264,
+         "thumbnail" : "https://m.media-amazon.com/images/I/718XDEWTPIL._AC_UL320_.jpg",
+         "images" : ["https://m.media-amazon.com/images/I/81ar3EUwmJL._SX300_SY300_QL70_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/81BDpSIwu3L._UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Y1Obibp4L._UL1024_.jpg"]
+         
+},
+{
+    "id" : 4,
+    "title" : "boAt",
+    "price" : 1499,
+    "thumbnail" : "https://m.media-amazon.com/images/I/61DZclqQ4RL._AC_UL320_.jpg",
+    "images" : ["https://m.media-amazon.com/images/I/61apsPEds-L._SX425_.jpg",
+"https://m.media-amazon.com/images/I/61-7uQcSj8L._SX425_.jpg",
+"https://m.media-amazon.com/images/I/41xcvgdwFML._AC_SR320,320_.jpg"]
+ },
+ {
+    "id" : 5,
+    "title" : "sonata",
+    "price" : 1249,
+    "thumbnail" : "https://m.media-amazon.com/images/I/61w9ISMyhiL._AC_UL320_.jpg",
+     "images" : ["https://staticimg.titan.co.in/Sonata/Catalog/77105NL04_1.jpg?impolicy=pqmed&imwidth=640",
+     "https://staticimg.titan.co.in/Sonata/Catalog/77105SM04_1.jpg?impolicy=pqmed&imwidth=640",
+     "https://staticimg.titan.co.in/Sonata/Catalog/77105WL01_1.jpg?impolicy=pqmed&imwidth=640"
+ ]
+ },
+ {
+    "id" : 6,
+    "title":"SF",
+    "price" : 549,
+    "thumbnail" : "https://m.media-amazon.com/images/I/71mG-2RT7NL._UL1500_.jpg",
+    "images" : ["https://staticimg.titan.co.in/Sonata/Catalog/77116PP01W_1.jpg?impolicy=pqmed&imwidth=640",
+    "https://staticimg.titan.co.in/Sonata/Catalog/77116PP02W_1.jpg?impolicy=pqmed&imwidth=640",
+"https://staticimg.titan.co.in/Sonata/Catalog/77116PP05W_1.jpg?impolicy=pqmed&imwidth=640"]
+ },
+ {
+    "id" : 7,
+    "title" : "titan",
+    "price" : 899,
+    "thumbnail" : "https://m.media-amazon.com/images/I/81lfqanrciL._UL1500_.jpg",
+    "images" : ["https://5.imimg.com/data5/CQ/EW/GY/SELLER-75059155/mens-titan-watches-1000x1000.jpg",
+    "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81Hza1YKP+L._UL1500_.jpg",
+    "https://5.imimg.com/data5/EI/TZ/KM/SELLER-89599085/titan-watch-2-1000x1000.jpg"]
+ },
+ {
+    "id" : 8,
+    "title" : "Kenneth Cole",
+    "price" : 11999,
+    "thumbnail" :"https://m.media-amazon.com/images/I/61m7sMIPL8L._AC_UL320_.jpg",
+    "images" : ["https://www.swisstimehouse.com/146261-thickbox_default/kenneth-cole-kcwgo2218502mn.webp",
+"https://staticimg.titan.co.in/Fastrack/Catalog/3286KM03_2.jpg",
+"https://staticimg.titan.co.in/production/promotions/fastrack/Thor/Thor_2.jpg"]
+ },
+ {
+    "id" : 9,
+    "title" : "Caviot",
+    "price" : 449,
+    "thumbnail" : "https://m.media-amazon.com/images/I/71aSdWlTYbL._AC_UL320_.jpg",
+    "images" : ["https://m.media-amazon.com/images/I/71zv5ASqqFL._AC_UL320_.jpg",
+    "https://m.media-amazon.com/images/I/4154af1IdmL._AC_SR320,320_.jpg",
+"https://m.media-amazon.com/images/I/41pDhZXOjwL._AC_SR320,320_.jpg"]
+ },
+ {
+    "id" :10,
+    "title" : "Acnos Brand",
+    "price" :284,
+    "thumbnail" : "https://m.media-amazon.com/images/I/61x+XE10msL._UL1467_.jpg",
+    "images" : ["https://m.media-amazon.com/images/I/61RdytzaxUL._UL1101_.jpg",
+"https://m.media-amazon.com/images/I/41zg9LC53wL.jpg",
+"https://m.media-amazon.com/images/I/51+4AunUdiL.jpg"]
+ }
+]
+},
+    {
+        "gender" : "female",
+        "data" : [
+            {
+                "id" : 1,
+                "title" : "Imperious",
+                "price" : 898,
+                "thumbnail" : "https://m.media-amazon.com/images/I/61QM31gRdpL._UL1500_.jpg",
+                "images" :["https://m.media-amazon.com/images/I/510xwLc5ZgL._AC_UL320_.jpg",
+                "https://m.media-amazon.com/images/I/612kvs5NqAL._AC_UL320_.jpg",
+                "https://m.media-amazon.com/images/I/61rYfqIqnGL._UL1100_.jpg"]
+            },
+            {
+                "id" : 2,
+                "title" : "Adamo",
+                "price" :296,
+                "thumbnail" : "https://m.media-amazon.com/images/I/61uY-wl4OdL._AC_UL320_.jpg",
+                "images" :["https://m.media-amazon.com/images/I/61rgPRBl0mL._AC_UL320_.jpg",
+                "https://m.media-amazon.com/images/I/61Aib9zx9iL._SY879_.jpg",
+                "https://m.media-amazon.com/images/I/51mUHJGq+QL._SY879_.jpg"]
+            },
+            {
+                "id" : 3,
+                "title" :"Fastrack",
+                "price" : 1550,
+                "thumbnail" : "https://m.media-amazon.com/images/I/614OvJkS3US._AC_UL320_.jpg",
+                "images" : ["https://staticimg.titan.co.in/Fastrack/Catalog/6237SM01_1.jpg?impolicy=pqmed&imwidth=640",
+            "https://staticimg.titan.co.in/Fastrack/Catalog/6237QM01_1.jpg?impolicy=pqmed&imwidth=640",
+        "https://staticimg.titan.co.in/Fastrack/Catalog/68015PP03_1.jpg?impolicy=pqmed&imwidth=640"]
+                
+            },
+            {
+                "id" : 4,
+                "title" : "sonata",
+                "price" : 599,
+                "thumbnail" : "https://m.media-amazon.com/images/I/71QWLxt2UxL._AC_UL320_.jpg",
+                "images" : ["https://images-eu.ssl-images-amazon.com/images/I/71QWLxt2UxL._AC_UL116_SR116,116_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/614BrIFoJzL._AC_UL116_SR116,116_.jpg",
+        "https://images-eu.ssl-images-amazon.com/images/I/61vaOIYggZL._AC_UL116_SR116,116_.jpg"]
+
+            },
+            {
+                "id" : 5, 
+                "title" : "Fire Boltt",
+                "price" : 1599,
+                "thumbnail" : "https://m.media-amazon.com/images/I/41l9nh11tnL._SX300_SY300_QL70_FMwebp_.jpg",
+                "images" : ["https://m.media-amazon.com/images/I/61S9aVnRZDL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/61MsnMwSK7L._SX425_.jpg",
+        "https://m.media-amazon.com/images/I/717ghA3VdNL._SL1500_.jpg"]
+            },
+            {
+                "id" : 6,
+                "title" : "Chumbak",
+                "price" :1095 ,
+                "thumbnail" : "https://m.media-amazon.com/images/I/618rC3LTJWL._UL1100_.jpg",
+                "images" : ["https://m.media-amazon.com/images/I/71sH8GajpwL._SX300_SY300_QL70_FMwebp_.jpg",
+            "https://m.media-amazon.com/images/I/514Z+tp+qlS._UL1100_.jpg",
+        "https://m.media-amazon.com/images/I/61ZmYZOnQVL._SX300_SY300_QL70_FMwebp_.jpg" ]
+           },
+           {
+            "id" : 7,
+            "title" : "Nibosi",
+            "price" : 599,
+            "thumbnail" : "https://m.media-amazon.com/images/I/71JYlQhi3aL._AC_UL320_.jpg",
+            "images" : ["https://m.media-amazon.com/images/I/41fGYj8+TML.jpg",
+            "https://m.media-amazon.com/images/I/61xuL9-N-nL._SX300_SY300_QL70_FMwebp_.jpg"]
+            },
+            {
+                "id" : 8,
+                "title" : "titan",
+                "price" :1579 ,
+                "thumbnail" : "https://m.media-amazon.com/images/I/61M-iMX3f9L._AC_UL320_.jpg",
+                "images" : ["https://m.media-amazon.com/images/I/716AYwyVuYL._AC_UL320_.jpg",
+            "https://m.media-amazon.com/images/I/61M7opyIggL._AC_UL320_.jpg",
+        "https://m.media-amazon.com/images/I/716L2kcENCL._UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61So5enDUaL._UL1500_.jpg"]
+            },
+            {
+                "id" : 9,
+                "title" :"Yellow Chimes",
+                "price" : 245,
+                "thumbnail" : "https://m.media-amazon.com/images/I/51erUGjlkpL._AC_UL320_.jpg",
+                "images" : ["https://m.media-amazon.com/images/I/516sx8sBeqL._AC_UL320_.jpg",
+                "https://m.media-amazon.com/images/I/516sx8sBeqL._AC_UL320_.jpg",
+            "https://m.media-amazon.com/images/I/717V-lQXLHL._AC_UL320_.jpg"]
+
+            },
+            {
+                "id" : 10,
+                "title" :"Iik collection",
+                "price" : 349,
+                "thumbnail" : "https://m.media-amazon.com/images/I/716F4vFHAWL._AC_UL320_.jpg",
+                "images" : ["https://m.media-amazon.com/images/I/51c-35i5O0L.jpg",
+            "https://m.media-amazon.com/images/I/51UgVm2ohKL.jpg",
+            "https://m.media-amazon.com/images/I/51eEN2E2+aL._SS36_.jpg"]
+            }
+
+        ]
+    }
+]
